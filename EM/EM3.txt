@@ -1,0 +1,107 @@
+﻿//Questions and Options array
+
+const quizArray = [
+ 
+  {
+    id: "1",
+    question: " Cauchy – Riemann equation is",
+    options: ["ux = vy & uy = vy", "ux = vy & uy = vx", "ux = - vy & uy = vx", "ux = vy & uy = -vx"],
+    correct: "ux = vy & uy = -vx",
+  },
+  {
+    id: "2",
+    question: "An analytic function with constant real part is",
+    options: ["real", "imaginary", "constant", "neither real nor imaginary"],
+    correct: "constant",
+  },
+{
+    id: "3",
+    question: "If f(z) = z3
+
+then ux = ________",
+    options: ["3x2 – 3y2","3z2","3y2 – 3x2","3x2 + 3y2"],
+    correct: "3x2 – 3y2",
+  },
+{
+    id: "4",
+    question: "If f(z) = e-z
+
+then vy =",
+    options: ["- e
+-x cosy","e
+-x cosy","e
+-y cosy","e
+-x cosy"],
+    correct: "- e
+-x cosy",
+  },
+{
+    id: "5",
+    question: " If w = sin z then the value of vy is",
+    options: ["vy = sinx coshy","vy = sinx sinhy","vy = cosx coshy","vy =- sinx coshy"],
+    correct: "vy = cosx coshy",
+  },
+{
+    id: "6",
+    question: "A parentheses checker program would be best implemented using",
+    options: ["List","Queue","Stack","Any of the above"],
+    correct: "Stack",
+  },
+{
+    id: "7",
+    question: "If w=f(z) is not conformal at a point z0 ,where f ’
+
+(z0) =0,then z0 is called",
+    options: ["critical point","saddle point","vertical point","finite point"],
+    correct: "critical point",
+  },
+{
+    id: "8",
+    question: "If given transformation isw=z-1/z+1 then fixed point is",
+    options: ["-i","i","2","+ i"],
+    correct: "+i",
+  },
+{
+    id: "9",
+    question: "If f(z) = u+iv is analytic,then u is said to be ________of v",
+    options: ["conjugate harmonic", "harmonic function", "analytic function", "exponential function"],
+    correct: "conjugate harmonic",
+  },
+{
+    id: "10",
+    question: "An analytic function with constant modulus is",
+    options: ["variable","Constant"," Infinity","finite"],
+    correct: " Infinity",
+  },
+{
+    id: "11",
+    question: "The cross ratio of (z1 ,z 2, z3, z 4) is defined as",
+    options: ["(z4 –z1) (z3 – z2) / (z4 –z 3) (z 2– z1)","(z1 –z2) (z 3 – z4) / (z1 –z4) (z3 – z2)","(z2 –z3) (z1 – z4) / (z 3–z4) (z1 – z2 )","(z1 –z3) (z 2– z3) / (z1 –z2) (z 4– z 1)"],
+    correct: "(z1 –z2) (z 3 – z4) / (z1 –z4) (z3 – z2)",
+  },
+{
+    id: "12",
+    question: "The image of y = 3x under w = 1 / z is",
+    options: ["u – 3v = 0","3u + v = 0","u + 3v = 0","3u – v = 0"],
+    correct: "3u + v = 0",
+  },
+{
+    id: "13",
+    question: "The critical point of w = z 2 is",
+    options: ["1","0","2","-2"],
+    correct: "0",
+  },
+{
+    id: "14",
+    question: "The image of | z + 1 | = 1 under the mapping w = 1/ z is",
+    options: ["2u + 1 =0","1 – 2u = 0","2v +1 =0","1- 2v = 0"],
+    correct: "2u + 1 =0",
+  },
+{
+    id: "15",
+    question: "The image of the circle | z | = 2 under the transformation w = 3z is",
+    options: ["(u -3)2 + (v-3) 2 = 9","u 2 + v 2 = 3","(u -1)2 + (v-2) 2 = 4","u 2 + v 2 = 36"],
+    correct: "u 2 + v 2 = 36",
+  },
+
+];

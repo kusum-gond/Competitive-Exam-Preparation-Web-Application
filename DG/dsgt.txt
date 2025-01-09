@@ -1,0 +1,86 @@
+cnst quizArray = [
+{
+id:"0",
+question: "If f is a function on a set A= {1,2,3,4,5} such that  f= { (1,2),(2,3),(3,4),(4,x),(5,5,)}. If f is a bijective function the x is ",
+options: ["5" ,"3", "1", "None of these"],
+correct:"1"
+};
+{
+id:"1",
+question: "If f is a function on a set A= {1,2,3,4,5} such that f= { (1,1),(2,2),(3,3),(4,4),(5,5,)}. Then",
+options: ["f is bijective but not surjective","f is surjective but not injective", "f is bijective", "None of the above"],
+correct: "f is bijective"
+},
+{
+id: "3",
+question:"Let A = {4,5,6,7} and B = {4,5,6,7}If f is one to one from A to B then which of the following is correct?"
+options:["f is into function","f is bijective","f may or may not be bijective","None of these"],
+correct:"f is bijective"
+};
+{
+id:"4",
+question:"Let A = {7,8,9} and B = {7,8,9} and f is onto from A to B then which of the following is correct?"
+options:["(a) f is one to one", "(b) f is bijective","(c) f may be one to one or many to one ","(d) Non of the above"],
+corect:
+};
+{
+id:"5",
+question:"A function f : A →B is an onto function then",
+optins:["(a) A = B"," (b) B is a subset of A","(c) range of f is A"," (d) range of f is B"]
+correct:
+};
+{
+id:"6",
+question:"If A function f : A →B is an one to one function then",
+options:["(a) Number of elements in range of f is n(B)","(b) n(A) = n(B)","(c) Number of elements in range of f is n(A)","(d) n(A) > number of elements in range of f"],
+correct:
+};
+{
+id:"7"
+question:"If A function f : A →B is an bijective function then"
+options:["(a) Number of elements in range of f is n(B)","(b) Number of elements in range of f is n(A)","(c) n(A) = n(B)","(d) All the above are true"],
+correct:
+};
+{
+id:"8"
+question:"If f:A→B is a bijective function and n(A) = 6 then which of the following is not possible "
+options: ["(a) No of elements in range of f is 6", "(c) n(B) =8","(b) n(B) = 6","(d) n(A) = n(B)"],
+correct:
+};
+{
+id:"9",
+question:".If f(a) = f(b) implies that a = b then f is"
+ options:["(a) not one to one"," (b) one to one"," (c) not onto"," (d) onto"]
+correct:
+};
+{
+id:"10",
+question:"If f : A →B is an onto function then range of f is ________"
+options:["(a) A"," (b) B"," (c) subset of B"," (d) Can’t find"]
+correct:
+};
+{
+id:"11",
+question:" f : [0,π] →R given by f(x) = sinx is", 
+options:["(a) one to one function","(b) onto function","(c) not one to one"," (d) bijective function"],
+correct:
+};
+{
+id:"12",
+question:".A function f:R→R defined by f(x) = 2x is", 
+options:["(a) only one to one","(b)only onto","(c) neither one to one nor onto","(d) bijective function"],
+correct:
+};
+{
+id:"13",
+question:"A function f:N→N defined by f(x) = x2 is "
+options:["(a) one to one","(b) not one to one","(c) on to","(d)bijective"],
+correct:
+};
+{
+id:"14"
+question:"A function f:Z→Z defined by f(x) = x2 is "
+options:["(a) one to one","(b) on to","(c) neither one to one nor onto","(d)bijective"],
+correct:
+};
+];

@@ -1,0 +1,22 @@
+//Questions and Options array
+
+const quizArray = [
+  {
+    id: "0",
+    question: "In order traversal of binary search tree will produce",
+    options: ["unsorted list", "reverse of input", "sorted list", "none of these"],
+    correct: "sorted list",
+  },
+  {
+    id: "1",
+    question: "if the array is already sorted, which of these algorithms will exhibit the best performance",
+    options: ["Merge sort", "Insertion sort", "Quick sort", "Heap sort"],
+    correct: "Insertion sort",
+  },
+  {
+    id: "2",
+    question: "Which of the following algorithm does not divide the list",
+    options: ["linear search", "binary search", "merge sort", "quick sort"],
+    correct: "linear search",
+  },
+];
